@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					7798D5251EE74B4E0091D5BA = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 3CNP52UJ55;
+						DevelopmentTeam = WDWK46J648;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -263,7 +263,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3CNP52UJ55;
+				DEVELOPMENT_TEAM = WDWK46J648;
 				INFOPLIST_FILE = "RGB project/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.IVdev.RGB-project";
@@ -276,7 +276,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 3CNP52UJ55;
+				DEVELOPMENT_TEAM = WDWK46J648;
 				INFOPLIST_FILE = "RGB project/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.IVdev.RGB-project";
