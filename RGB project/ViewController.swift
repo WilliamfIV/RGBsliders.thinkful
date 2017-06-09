@@ -35,6 +35,10 @@ class ViewController: UIViewController {
        
         colorSquare.backgroundColor = UIColor(red: red, green: green, blue: blue, alpha: 1)
     }
-    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if (segue.identifier == "openColor") {
+            let newViewController = segue.destination
+            newViewController.view.backgroundColor = colorSquare.backgroundColor
+        }
+    }
 }
-
